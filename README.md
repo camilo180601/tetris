@@ -11,11 +11,11 @@ Follow these steps to install and run the game on your local environment:
    ```bash
    git clone https://github.com/camilo180601/tetris.git
 
-cd tetris
+   cd tetris
 
-npm install
+   npm install
 
-npm run dev
+   npm run dev
 
 Controls
 Use the left arrow key (←) and right arrow key (→) to move the tetromino piece.
